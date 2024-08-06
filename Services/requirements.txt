@@ -1,3 +1,4 @@
 streamlit
 xlsxwriter
 bs4
+yfinance[nospam,repair]
